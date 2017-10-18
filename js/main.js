@@ -178,6 +178,8 @@ jQuery(function($) {
             loop: true,
             margin: 0,
             nav: false,
+            autoplay:true,
+            autoplayTimeout:3000,
             responsive: {
                 0: {
                     items: 2
@@ -231,6 +233,8 @@ jQuery(function($) {
             loop: true,
             margin: 30,
             nav: false,
+            autoplay:true,
+            autoplayTimeout:4000,
             responsive: {
                 0: {
                     items: 1
@@ -245,7 +249,7 @@ jQuery(function($) {
                     items:3
                 }
             }
-        });    
+        });
         /*
         =========================================================================================
         13. SOLUTION SLIDER   

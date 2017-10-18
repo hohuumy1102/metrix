@@ -8636,5 +8636,8 @@ font-family: 'Lora', serif;
     bottom: 10px;
 }
 
-
+.client-2-slider .client-2-slider-content img{
+    width:72px;
+    height:72px;
+}
 
